@@ -10,8 +10,8 @@ more info ref: => https://en.wikipedia.org/wiki/Marching_cubes
 Gallery 
 <p>
   <img src="https://github.com/CY5/MarchingCubes/blob/master/images/Marching_Cubes/Main_view.png" width="800" height="450" title="ISO SURFACE">
-  <img src="https://github.com/CY5/MarchingCubes/blob/master/images/Marching_Cubes/Debug_View_Lines.png" width="350" height="233.33" alt="accessibility text">
-  <img src="https://github.com/CY5/MarchingCubes/blob/master/images/Marching_Cubes/Debug_View_Points.png" width="450" height="192.86" alt="accessibility text">
+  <img src="https://github.com/CY5/MarchingCubes/blob/master/images/Marching_Cubes/Debug_View_Lines.png" width="800" height="450" alt="accessibility text">
+  <img src="https://github.com/CY5/MarchingCubes/blob/master/images/Marching_Cubes/Debug_View_Points.png" width="800" height="450" alt="accessibility text">
 </p>
 
 
